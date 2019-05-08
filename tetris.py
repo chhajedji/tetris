@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import sys, random, pygame, collections, time
 
 from collections import namedtuple
